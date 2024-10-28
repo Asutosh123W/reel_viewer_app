@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "262529424878",
+    "firebase_url": "https://reelview-af8ca-default-rtdb.firebaseio.com",
+    "project_id": "reelview-af8ca",
+    "storage_bucket": "reelview-af8ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262529424878:android:de66757bfda6baf477c2ff",
+        "android_client_info": {
+          "package_name": "com.example.reels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAqZtJuj7eGYWJWWXW8v3qilwop1hzcfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
